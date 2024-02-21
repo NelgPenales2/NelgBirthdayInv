@@ -1,0 +1,47 @@
+h1{
+    color:#030300;
+    font-size: 50px;
+    font-family: cursive;
+    background-color: #CEAB93;
+}
+html{
+    background-color: #AD8B73;
+}
+p{
+    color: #000000;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+  ol{
+    color: #000000;
+    font-size: 40px;
+  }
+  button{
+    color: #000000;
+  }
+  button{
+    background-color:#CEAB93 ;
+    color: #000000;
+    border:#CEAB93;
+    padding:15px 30px;
+    text-align: center;
+    text-decoration: #AD8B73;
+    border-radius: 45px;
+  }
+/*Id selector*/
+#id123{
+  text-decoration: none;
+  color: #000000;
+  font-size: 15px;
+}
+ul{
+  color: #000000;
+}
+h3{
+  color: #000000;
+}
+ h1{
+  font-weight:lighter;
+ }
+
